@@ -1,6 +1,6 @@
 <h1 align="center">Guy Simai Profile</h1>
 
-## About
+<h3 align="left">About</h3>
 Results-driven programmer. 
 passionate about delivering solutions that bring real value to people. Holds a strong foundation in various programming languages, adepts at quickly mastering new technologies and applying them effectively in diverse development environments. Constantly eager to learn, take on extra responsibilities, and grow professionally. Looking to make a real impact in the world of software development.
 
