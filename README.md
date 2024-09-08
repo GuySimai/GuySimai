@@ -43,7 +43,7 @@ passionate about delivering solutions that bring real value to people. Holds a s
 - Implemented the system using C, demonstrating strong skills in system-level programming.
 
 
-Database System
+Database Systems Shopping Cart 
 - Designed and implemented a detailed ERD to represent the relationships between entities effectively.
 - Developed and normalized database tables to ensure data integrity and efficient storage.
 - Used PostgreSQL for designing, developing, and managing the database.
