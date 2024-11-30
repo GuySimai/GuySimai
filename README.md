@@ -55,4 +55,5 @@ Test Creation system
 - Implemented file handling techniques, working with both text and binary files to store questions, answers, and exam results.
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuySimai&layout=compact&theme=radical)
 
