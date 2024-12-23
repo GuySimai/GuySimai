@@ -37,7 +37,7 @@ passionate about delivering solutions that bring real value to people. Holds a s
 </p>
 
 <h3 align="left">Main projects:</h3>
-Half Chess - C#  
+ Half Chess - C#
 - Built a web application using ASP.NET Core with real-time multiplayer support and dynamic animations.
 - Implemented client-server architecture, where players compete against the server managing and validating moves.
 - Integrated SQL Server for player registration, game history, and statistical analysis.
