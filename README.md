@@ -38,7 +38,8 @@ passionate about delivering solutions that bring real value to people. Holds a s
 <h3 align="left">Main projects:</h3>
 
 **Half Chess - C#**
-- Integrated SQL Server for data management, including player statistics, game history, and move analysis.
+- Utilized .NET Core to build a web-based application with an interactive UI and real-time multiplayer functionality.
+- Integrated SQL Server for data management, including player statistics and game history.
 - Designed and implemented advanced animations for piece movement and dynamic game events (e.g., check, checkmate).
 - Developed a game replay and analysis feature to visualize past moves and strategies.
 
