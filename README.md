@@ -46,12 +46,12 @@ passionate about delivering solutions that bring real value to people. Holds a s
 - Developed a project management system for a web development company.
 - Implemented the system using C, demonstrating strong skills in system-level programming.
 
-**Database Systems - Shopping Cart**
+**Database Systems - Shopping Cart - Jave**
 - Designed and implemented a detailed ERD to represent the relationships between entities effectively.
 - Developed and normalized database tables to ensure data integrity and efficient storage.
 - Used PostgreSQL for designing, developing, and managing the database.
 
-**Test Creation system**
+**Test Creation system - Jave**
 - Developed a system from scratch in Java using object-oriented programming (OOP) principles.
 - Applied key OOP concepts such as inheritance, encapsulation, and polymorphism to enhance the system's functionality.
 - Implemented file handling techniques, working with both text and binary files to store questions, answers, and exam results.
