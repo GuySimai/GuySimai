@@ -35,26 +35,23 @@ passionate about delivering solutions that bring real value to people. Holds a s
 <a href="https://github.com/GuySimai" target="GitHub" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2014/04/25657-github-sign-icon-vector-icon-vector-eps.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
 <a href="mailto:Guy.simai.dev@gmail.com" target="Gmail"> <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <h3 align="left">Main projects:</h3>
- Half Chess - C#
+
+**Half Chess - C#**
 - Integrated SQL Server for data management, including player statistics, game history, and move analysis.
 - Designed and implemented advanced animations for piece movement and dynamic game events (e.g., check, checkmate).
 - Developed a game replay and analysis feature to visualize past moves and strategies.
 
-
- Project Manager - C
+**Project Manager - C**
 - Developed a project management system for a web development company.
 - Implemented the system using C, demonstrating strong skills in system-level programming.
 
-
-Database Systems - Shopping Cart 
+**Database Systems - Shopping Cart**
 - Designed and implemented a detailed ERD to represent the relationships between entities effectively.
 - Developed and normalized database tables to ensure data integrity and efficient storage.
 - Used PostgreSQL for designing, developing, and managing the database.
 
-
-Test Creation system
+**Test Creation system**
 - Developed a system from scratch in Java using object-oriented programming (OOP) principles.
 - Applied key OOP concepts such as inheritance, encapsulation, and polymorphism to enhance the system's functionality.
 - Implemented file handling techniques, working with both text and binary files to store questions, answers, and exam results.
