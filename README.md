@@ -38,9 +38,9 @@ passionate about delivering solutions that bring real value to people. Holds a s
 
 <h3 align="left">Main projects:</h3>
  Half Chess - C#
-- Built a web application using ASP.NET Core with real-time multiplayer support and dynamic animations.
-- Implemented client-server architecture, where players compete against the server managing and validating moves.
-- Integrated SQL Server for player registration, game history, and statistical analysis.
+- Integrated SQL Server for data management, including player statistics, game history, and move analysis.
+- Designed and implemented advanced animations for piece movement and dynamic game events (e.g., check, checkmate).
+- Developed a game replay and analysis feature to visualize past moves and strategies.
 
 
  Project Manager - C
