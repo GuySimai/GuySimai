@@ -5,10 +5,6 @@ Results-driven programmer.
 A final year student of Computer Science, interested in software development and innovative technology. A fast learner with a creative mindset and good teamwork skills. 
 Have had exposure to academic and personal projects and now seek my first employment in development to further my learning, growth and contribution of my skills.
 
-- 👨‍💻 All of my projects are available at [github.com/GuySimai](github.com/GuySimai)
-
-- 📫 How to reach me **Guy.simai.dev@gmail.com**
-
 
 <h3 align="left">💻 Languages:</h3>
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
