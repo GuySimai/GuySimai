@@ -17,6 +17,9 @@ Have had exposure to academic and personal projects and now seek my first employ
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="CPP"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="CPP" width="40" height="40"/>  </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySimai&size_weight=0&count_weight=0.5&langs_count=6&hide=javascript,css,HTML,makefile,c%23,C%2B%2B&layout=compact" align="center" />
+<br/>
+
 
 <h3 align="left">🧰 Tools & Frameworks:</h3>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
@@ -58,8 +61,4 @@ Have had exposure to academic and personal projects and now seek my first employ
 - Developed a system from scratch in Java using object-oriented programming (OOP) principles. 
 - Applied key OOP concepts such as inheritance, encapsulation, and polymorphism to enhance the system's functionality.
 - Implemented file handling techniques, working with both text and binary files to store questions, answers, and exam results.
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySimai&size_weight=0&count_weight=0.5&langs_count=6&hide=javascript,css,HTML,makefile,c%23,C%2B%2B&layout=compact" align="center" />
-<br/>
 
