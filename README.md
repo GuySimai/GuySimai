@@ -2,7 +2,8 @@
 
 <h3 align="left">About</h3>
 Results-driven programmer. 
-passionate about delivering solutions that bring real value to people. Holds a strong foundation in various programming languages, adepts at quickly mastering new technologies and applying them effectively in diverse development environments. Constantly eager to learn, take on extra responsibilities, and grow professionally. Looking to make a real impact in the world of software development.
+A final year student of Computer Science, interested in software development and innovative technology. A fast learner with a creative mindset and good teamwork skills. 
+Have had exposure to academic and personal projects and now seek my first employment in development to further my learning, growth and contribution of my skills.
 
 - 👨‍💻 All of my projects are available at [github.com/GuySimai](github.com/GuySimai)
 
@@ -17,6 +18,7 @@ passionate about delivering solutions that bring real value to people. Holds a s
 
 
 <h3 align="left">🧰 Tools & Frameworks:</h3>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://git-scm.com/" title="GitHub"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40"/>  </a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>
 <a href="https://www.jetbrains.com/clion/" title="CLion"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/clion.svg" alt="CLion" width="40" height="40"/>  </a>
