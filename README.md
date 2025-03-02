@@ -40,10 +40,10 @@ Have had exposure to academic and personal projects and now seek my first employ
 <h3 align="left">Main projects:</h3>
 
 **Half Chess - C#**
-- Utilized .NET Core to build a web-based application with an interactive UI and real-time multiplayer functionality.
-- Integrated SQL Server for data management, including player statistics and game history.
-- Designed and implemented advanced animations for piece movement and dynamic game events (e.g., check, checkmate).
-- Developed a game replay and analysis feature to visualize past moves and strategies.
+- Utilized ASP.NET to build a web-based application with an interactive UI and real-time multiplayer functionality. 
+- Integrated SQL Server for data management, including player statistics, game history, and move analysis. 
+- ​Designed and implemented advanced animations for piece movement and dynamic game events (e.g., check, checkmate). 
+- Developed a game replay and analysis feature to visualize past moves and strategies. 
 
 **Project Manager - C**
 - Developed a project management system for a web development company.
@@ -54,8 +54,8 @@ Have had exposure to academic and personal projects and now seek my first employ
 - Developed and normalized database tables to ensure data integrity and efficient storage.
 - Used PostgreSQL for designing, developing, and managing the database.
 
-**Test Creation system - Jave**
-- Developed a system from scratch in Java using object-oriented programming (OOP) principles.
+**Exam Creation System - Java**
+- Developed a system from scratch in Java using object-oriented programming (OOP) principles. 
 - Applied key OOP concepts such as inheritance, encapsulation, and polymorphism to enhance the system's functionality.
 - Implemented file handling techniques, working with both text and binary files to store questions, answers, and exam results.
 
