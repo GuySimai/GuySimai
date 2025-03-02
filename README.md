@@ -59,3 +59,7 @@ Have had exposure to academic and personal projects and now seek my first employ
 - Applied key OOP concepts such as inheritance, encapsulation, and polymorphism to enhance the system's functionality.
 - Implemented file handling techniques, working with both text and binary files to store questions, answers, and exam results.
 
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuySimai&size_weight=0&count_weight=0.5&langs_count=6&hide=javascript,css,HTML,makefile,c%23,C%2B%2B&layout=compact" align="center" />
+<br/>
+
