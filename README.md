@@ -14,6 +14,7 @@ Have had exposure to academic and personal projects and now seek my first employ
 <a href="https://www.python.org" title="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://www.java.com" title="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.cprogramming.com/" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="CPP"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="CPP" width="40" height="40"/>  </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 
 
