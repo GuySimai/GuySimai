@@ -2,8 +2,7 @@
 
 <h3 align="left">About</h3>
 Results-driven programmer. 
-A final year student of Computer Science, interested in software development and innovative technology. A fast learner with a creative mindset and good teamwork skills. 
-Have had exposure to academic and personal projects and now seek my first employment in development to further my learning, growth and contribution of my skills.
+Software developer with a strong background in computer science, hands-on experience in tech, academic work, and personal projects. Demonstrated quick learning, creativity, and teamwork. Looking to contribute and grow in a professional development role.
 
 
 <h3 align="left">💻 Languages:</h3>
@@ -38,6 +37,12 @@ Have had exposure to academic and personal projects and now seek my first employ
 </p>
 <h3 align="left">Main projects:</h3>
 
+**SilentGuard - Drowning Detection - Final Project**
+- Developed a system for detecting silent drowning incidents in live video using pose estimation and motion tracking.
+- Implemented real-time swimmer state classification using YOLO11 Pose, Deep SORT, ensuring stable and consistent motion tracking over time.
+- Built a Flask server with multiprocessing to process multiple authenticated video streams in real-time.
+- Recognized by the final project lecturer and presented as an example of a good project in the final project course.
+
 **Half Chess - C#**
 - Utilized ASP.NET to build a web-based application with an interactive UI and real-time multiplayer functionality. 
 - Integrated SQL Server for data management, including player statistics, game history, and move analysis. 
@@ -47,14 +52,3 @@ Have had exposure to academic and personal projects and now seek my first employ
 **Project Manager - C**
 - Developed a project management system for a web development company.
 - Implemented the system using C, demonstrating strong skills in system-level programming.
-
-**Database Systems - Shopping Cart - Jave**
-- Designed and implemented a detailed ERD to represent the relationships between entities effectively.
-- Developed and normalized database tables to ensure data integrity and efficient storage.
-- Used PostgreSQL for designing, developing, and managing the database.
-
-**Exam Creation System - Java**
-- Developed a system from scratch in Java using object-oriented programming (OOP) principles. 
-- Applied key OOP concepts such as inheritance, encapsulation, and polymorphism to enhance the system's functionality.
-- Implemented file handling techniques, working with both text and binary files to store questions, answers, and exam results.
-
