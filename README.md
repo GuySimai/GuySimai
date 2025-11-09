@@ -1,7 +1,7 @@
 <h1 align="center">Guy Simai Profile</h1>
 
 <h3 align="left">About</h3>
-Results-driven programmer. 
+Results-driven programmer.  
 Software developer with a strong background in computer science, hands-on experience in tech, academic work, and personal projects. Demonstrated quick learning, creativity, and teamwork. Looking to contribute and grow in a professional development role.
 
 
